@@ -1,0 +1,4 @@
+torch
+torchvision
+ray[tune]
+pycocotools
