@@ -2,3 +2,4 @@ torch
 torchvision
 ray[tune]
 pycocotools
+hyperopt
